@@ -1,2 +1,5 @@
 # tnsbabf21.tcc92944ef
-Bulk test collection tnsbabf21.tcc92944ef (based on ansible.utils)
+
+Bulk test collection based on `ansible.utils` v6.0.2.
+
+This repo was auto-generated for portal SCM sync testing.
